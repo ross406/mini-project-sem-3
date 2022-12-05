@@ -1,10 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { Linking, StyleSheet, Text, SafeAreaView,ScrollView } from 'react-native';
-import data from '../data/blind75.json';
+import data from '../data/top150.json';
 import { Button, DataTable } from 'react-native-paper';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 
-export default function Blind75() {
+export default function Top150() {
   return (
     <SafeAreaView >      
       <DataTable style={styles.container}>
@@ -48,18 +48,19 @@ const styles = StyleSheet.create({
   container: {
     marginBottom:100,
   },
-  text:{
-    fontSize:13,
-  },
   questionText:{
     textDecorationLine:'underline',
     color:"blue"
+  },
+  text:{
+    fontSize:13,
   },
   blind75Button:{
     marginTop:13,
     backgroundColor:"#fc5c65",
     alignItems:"center",
-    borderRadius:40,    
+    borderRadius:40,
+    
     padding:5
     // position:"absolute"
   },

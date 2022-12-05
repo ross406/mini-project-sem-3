@@ -1,0 +1,902 @@
+[
+  {
+    "links": "Contains Duplicate",
+    "links-href": "https://leetcode.com/problems/contains-duplicate/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/3OamzN90kPg"
+  },
+  {
+    "links": "Valid Anagram",
+    "links-href": "https://leetcode.com/problems/valid-anagram/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/9UtInBqnCgA"
+  },
+  {
+    "links": "Two Sum",
+    "links-href": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/KLlXCFG5TnA"
+  },
+  {
+    "links": "Group Anagrams",
+    "links-href": "https://leetcode.com/problems/group-anagrams/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/vzdNOK2oB2E"
+  },
+  {
+    "links": "Top K Frequent Elements",
+    "links-href": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/YPTqKIgVk-k"
+  },
+  {
+    "links": "Product of Array Except Self",
+    "links-href": "https://leetcode.com/problems/product-of-array-except-self/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/bNvIQI2wAjk"
+  },
+  {
+    "links": "Valid Sudoku",
+    "links-href": "https://leetcode.com/problems/valid-sudoku/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/TjFXEUCMqI8"
+  },
+  {
+    "links": "Encode And Decode Strings",
+    "links-href": "https://leetcode.com/problems/encode-and-decode-strings/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/B1k_sxOSgv8"
+  },
+  {
+    "links": "Longest Consecutive Sequence",
+    "links-href": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/P6RZZMu_maU"
+  },
+  {
+    "links": "Valid Palindrome",
+    "links-href": "https://leetcode.com/problems/valid-palindrome/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/jJXJ16kPFWg"
+  },
+  {
+    "links": "Two Sum II Input Array Is Sorted",
+    "links-href": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/cQ1Oz4ckceM"
+  },
+  {
+    "links": "3Sum",
+    "links-href": "https://leetcode.com/problems/3sum/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/jzZsG8n2R9A"
+  },
+  {
+    "links": "Container With Most Water",
+    "links-href": "https://leetcode.com/problems/container-with-most-water/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/UuiTKBwPgAo"
+  },
+  {
+    "links": "Trapping Rain Water",
+    "links-href": "https://leetcode.com/problems/trapping-rain-water/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/ZI2z5pq0TqA7"
+  },
+  {
+    "links": "Best Time to Buy And Sell Stock",
+    "links-href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/1pkOgXD63yU"
+  },
+  {
+    "links": "Longest Substring Without Repeating Characters",
+    "links-href": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/wiGpQwVHdE0"
+  },
+  {
+    "links": "Longest Repeating Character Replacement",
+    "links-href": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/gqXU1UyA8pk"
+  },
+  {
+    "links": "Permutation In String",
+    "links-href": "https://leetcode.com/problems/permutation-in-string/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/UbyhOgBN834"
+  },
+  {
+    "links": "Minimum Window Substring",
+    "links-href": "https://leetcode.com/problems/minimum-window-substring/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/jSto0O4AJbM"
+  },
+  {
+    "links": "Sliding Window Maximum",
+    "links-href": "https://leetcode.com/problems/sliding-window-maximum/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/DfljaUwZsOk"
+  },
+  {
+    "links": "Valid Parentheses",
+    "links-href": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/WTzjTskDFMg"
+  },
+  {
+    "links": "Min Stack",
+    "links-href": "https://leetcode.com/problems/min-stack/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/qkLl7nAwDPo"
+  },
+  {
+    "links": "Evaluate Reverse Polish Notation",
+    "links-href": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/iu0082c4HDE"
+  },
+  {
+    "links": "Generate Parentheses",
+    "links-href": "https://leetcode.com/problems/generate-parentheses/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/s9fokUqJ76A"
+  },
+  {
+    "links": "Daily Temperatures",
+    "links-href": "https://leetcode.com/problems/daily-temperatures/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/cTBiBSnjO3c"
+  },
+  {
+    "links": "Car Fleet",
+    "links-href": "https://leetcode.com/problems/car-fleet/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Pr6T-3yB9RM"
+  },
+  {
+    "links": "Largest Rectangle In Histogram",
+    "links-href": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/zx5Sw9130L0"
+  },
+  {
+    "links": "Binary Search",
+    "links-href": "https://leetcode.com/problems/binary-search/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/s4DPM8ct1pI"
+  },
+  {
+    "links": "Search a 2D Matrix",
+    "links-href": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Ber2pi2C0j0"
+  },
+  {
+    "links": "Koko Eating Bananas",
+    "links-href": "https://leetcode.com/problems/koko-eating-bananas/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/U2SozAs9RzA"
+  },
+  {
+    "links": "Search In Rotated Sorted Array",
+    "links-href": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/U8XENwh8Oy8"
+  },
+  {
+    "links": "Find Minimum In Rotated Sorted Array",
+    "links-href": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/nIVW4P8b1VA"
+  },
+  {
+    "links": "Time Based Key Value Store",
+    "links-href": "https://leetcode.com/problems/time-based-key-value-store/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/fu2cD_6E8Hw"
+  },
+  {
+    "links": "Median of Two Sorted Arrays",
+    "links-href": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/q6IEA26hvXc"
+  },
+  {
+    "links": "Reverse Linked List",
+    "links-href": "https://leetcode.com/problems/reverse-linked-list/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/G0_I-ZF0S38"
+  },
+  {
+    "links": "Merge Two Sorted Lists",
+    "links-href": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/XIdigk956u0"
+  },
+  {
+    "links": "Reorder List",
+    "links-href": "https://leetcode.com/problems/reorder-list/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/S5bfdUTrKLM"
+  },
+  {
+    "links": "Remove Nth Node From End of List",
+    "links-href": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/XVuQxVej6y8"
+  },
+  {
+    "links": "Copy List With Random Pointer",
+    "links-href": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/5Y2EiZST97Y"
+  },
+  {
+    "links": "Add Two Numbers",
+    "links-href": "https://leetcode.com/problems/add-two-numbers/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/wgFPrzTjm7s"
+  },
+  {
+    "links": "Linked List Cycle",
+    "links-href": "https://leetcode.com/problems/linked-list-cycle/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/gBTe7lFR3vc"
+  },
+  {
+    "links": "Find The Duplicate Number",
+    "links-href": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/wjYnzkAhcNk"
+  },
+  {
+    "links": "LRU Cache",
+    "links-href": "https://leetcode.com/problems/lru-cache/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/7ABFKPK2hD4"
+  },
+  {
+    "links": "Merge K Sorted Lists",
+    "links-href": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/q5a5OiGbT6Q"
+  },
+  {
+    "links": "Reverse Nodes In K Group",
+    "links-href": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/1UOPsfP85V4"
+  },
+  {
+    "links": "Invert Binary Tree",
+    "links-href": "https://leetcode.com/problems/invert-binary-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/OnSn2XEQ4MY"
+  },
+  {
+    "links": "Maximum Depth of Binary Tree",
+    "links-href": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/hTM3phVI6YQ"
+  },
+  {
+    "links": "Diameter of Binary Tree",
+    "links-href": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/bkxqA8Rfv04"
+  },
+  {
+    "links": "Balanced Binary Tree",
+    "links-href": "https://leetcode.com/problems/balanced-binary-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/QfJsau0ItOY"
+  },
+  {
+    "links": "Same Tree",
+    "links-href": "https://leetcode.com/problems/same-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/vRbbcKXCxOw"
+  },
+  {
+    "links": "Subtree of Another Tree",
+    "links-href": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/E36O5SWp-LE"
+  },
+  {
+    "links": "Lowest Common Ancestor of a Binary Search Tree",
+    "links-href": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/gs2LMfuOR9k"
+  },
+  {
+    "links": "Binary Tree Level Order Traversal",
+    "links-href": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/6ZnyEApgFYg"
+  },
+  {
+    "links": "Binary Tree Right Side View",
+    "links-href": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/d4zLyf32e3I"
+  },
+  {
+    "links": "Count Good Nodes In Binary Tree",
+    "links-href": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/7cp5imvDzl4"
+  },
+  {
+    "links": "Validate Binary Search Tree",
+    "links-href": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/s6ATEkipzow"
+  },
+  {
+    "links": "Kth Smallest Element In a Bst",
+    "links-href": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/5LUXSvjmGCw"
+  },
+  {
+    "links": "Construct Binary Tree From Preorder And Inorder Traversal",
+    "links-href": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/ihj4IQGZ2zc"
+  },
+  {
+    "links": "Binary Tree Maximum Path Sum",
+    "links-href": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/Hr5cWUld4vU"
+  },
+  {
+    "links": "Serialize And Deserialize Binary Tree",
+    "links-href": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/u4JAi2JJhI8"
+  },
+  {
+    "links": "Implement Trie Prefix Tree",
+    "links-href": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/oobqoCJlHA0"
+  },
+  {
+    "links": "Design Add And Search Words Data Structure",
+    "links-href": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/BTf05gs_8iU"
+  },
+  {
+    "links": "Word Search II",
+    "links-href": "https://leetcode.com/problems/word-search-ii/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/asbcE9mZz_U"
+  },
+  {
+    "links": "Kth Largest Element In a Stream",
+    "links-href": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/hOjcdrqMoQ8"
+  },
+  {
+    "links": "Last Stone Weight",
+    "links-href": "https://leetcode.com/problems/last-stone-weight/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/B-QCq79-Vfw"
+  },
+  {
+    "links": "K Closest Points to Origin",
+    "links-href": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/rI2EBUEMfTk"
+  },
+  {
+    "links": "Kth Largest Element In An Array",
+    "links-href": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/XEmy13g1Qxc"
+  },
+  {
+    "links": "Task Scheduler",
+    "links-href": "https://leetcode.com/problems/task-scheduler/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/s8p8ukTyA2I"
+  },
+  {
+    "links": "Design Twitter",
+    "links-href": "https://leetcode.com/problems/design-twitter/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/pNichitDD2E"
+  },
+  {
+    "links": "Find Median From Data Stream",
+    "links-href": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/itmhHWaHupI"
+  },
+  {
+    "links": "Subsets",
+    "links-href": "https://leetcode.com/problems/subsets/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/REOH22Xwdkk"
+  },
+  {
+    "links": "Combination Sum",
+    "links-href": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/GBKI9VSKdGg"
+  },
+  {
+    "links": "Permutations",
+    "links-href": "https://leetcode.com/problems/permutations/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/s7AvT7cGdSo"
+  },
+  {
+    "links": "Subsets II",
+    "links-href": "https://leetcode.com/problems/subsets-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Vn2v6ajA7U0"
+  },
+  {
+    "links": "Combination Sum II",
+    "links-href": "https://leetcode.com/problems/combination-sum-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/rSA3t6BDDwg"
+  },
+  {
+    "links": "Word Search",
+    "links-href": "https://leetcode.com/problems/word-search/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/pfiQ_PS1g8E"
+  },
+  {
+    "links": "Palindrome Partitioning",
+    "links-href": "https://leetcode.com/problems/palindrome-partitioning/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/3jvWodd7ht0"
+  },
+  {
+    "links": "Letter Combinations of a Phone Number",
+    "links-href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/0snEunUacZY"
+  },
+  {
+    "links": "N Queens",
+    "links-href": "https://leetcode.com/problems/n-queens/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/Ph95IHmRp5M"
+  },
+  {
+    "links": "Number of Islands",
+    "links-href": "https://leetcode.com/problems/number-of-islands/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/pV2kpPD66nE"
+  },
+  {
+    "links": "Clone Graph",
+    "links-href": "https://leetcode.com/problems/clone-graph/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/mQeF6bN8hMk"
+  },
+  {
+    "links": "Max Area of Island",
+    "links-href": "https://leetcode.com/problems/max-area-of-island/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/iJGr1OtmH0c"
+  },
+  {
+    "links": "Pacific Atlantic Water Flow",
+    "links-href": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/s-VkcjHqkGI"
+  },
+  {
+    "links": "Surrounded Regions",
+    "links-href": "https://leetcode.com/problems/surrounded-regions/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/9z2BunfoZ5Y"
+  },
+  {
+    "links": "Rotting Oranges",
+    "links-href": "https://leetcode.com/problems/rotting-oranges/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/y704fEOx0s0"
+  },
+  {
+    "links": "Walls And Gates",
+    "links-href": "https://leetcode.com/problems/walls-and-gates/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/e69C6xhiSQE"
+  },
+  {
+    "links": "Course Schedule",
+    "links-href": "https://leetcode.com/problems/course-schedule/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/EgI5nU9etnU"
+  },
+  {
+    "links": "Course Schedule II",
+    "links-href": "https://leetcode.com/problems/course-schedule-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Akt3glAwyfY"
+  },
+  {
+    "links": "Redundant Connection",
+    "links-href": "https://leetcode.com/problems/redundant-connection/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/FXWRE67PLL0"
+  },
+  {
+    "links": "Number of Connected Components In An Undirected Graph",
+    "links-href": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/8f1XPm4WOUc"
+  },
+  {
+    "links": "Graph Valid Tree",
+    "links-href": "https://leetcode.com/problems/graph-valid-tree/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/bXsUuownnoQ"
+  },
+  {
+    "links": "Word Ladder",
+    "links-href": "https://leetcode.com/problems/word-ladder/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/h9iTnkgv05E"
+  },
+  {
+    "links": "Reconstruct Itinerary",
+    "links-href": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/ZyB_gQ8vqGA"
+  },
+  {
+    "links": "Min Cost to Connect All Points",
+    "links-href": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/f7JOBJIC-NA"
+  },
+  {
+    "links": "Network Delay Time",
+    "links-href": "https://leetcode.com/problems/network-delay-time/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/EaphyqKU4PQ"
+  },
+  {
+    "links": "Swim In Rising Water",
+    "links-href": "https://leetcode.com/problems/swim-in-rising-water/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/amvrKlMLuGY"
+  },
+  {
+    "links": "Alien Dictionary",
+    "links-href": "https://leetcode.com/problems/alien-dictionary/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/6kTZYvNNyps"
+  },
+  {
+    "links": "Cheapest Flights Within K Stops",
+    "links-href": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/5eIK3zUdYmE"
+  },
+  {
+    "links": "Climbing Stairs",
+    "links-href": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/Y0lT9Fck7qI"
+  },
+  {
+    "links": "Min Cost Climbing Stairs",
+    "links-href": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/ktmzAZWkEZ0"
+  },
+  {
+    "links": "House Robber",
+    "links-href": "https://leetcode.com/problems/house-robber/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/73r3KWiEvyk"
+  },
+  {
+    "links": "House Robber II",
+    "links-href": "https://leetcode.com/problems/house-robber-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/rWAJCfYYOvM"
+  },
+  {
+    "links": "Longest Palindromic Substring",
+    "links-href": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/XYQecbcd6_c"
+  },
+  {
+    "links": "Palindromic Substrings",
+    "links-href": "https://leetcode.com/problems/palindromic-substrings/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/4RACzI5-du8"
+  },
+  {
+    "links": "Decode Ways",
+    "links-href": "https://leetcode.com/problems/decode-ways/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/6aEyTjOwlJU"
+  },
+  {
+    "links": "Coin Change",
+    "links-href": "https://leetcode.com/problems/coin-change/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/H9bfqozjoqs"
+  },
+  {
+    "links": "Maximum Product Subarray",
+    "links-href": "https://leetcode.com/problems/maximum-product-subarray/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/lXVy6YWFcRM"
+  },
+  {
+    "links": "Word Break",
+    "links-href": "https://leetcode.com/problems/word-break/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Sx9NNgInc3A"
+  },
+  {
+    "links": "Longest Increasing Subsequence",
+    "links-href": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/cjWnW0hdF1Y"
+  },
+  {
+    "links": "Partition Equal Subset Sum",
+    "links-href": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/IsvocB5BJhw"
+  },
+  {
+    "links": "Unique Paths",
+    "links-href": "https://leetcode.com/problems/unique-paths/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/IlEsdxuD4lY"
+  },
+  {
+    "links": "Longest Common Subsequence",
+    "links-href": "https://leetcode.com/problems/longest-common-subsequence/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Ua0GhsJSlWM"
+  },
+  {
+    "links": "Best Time to Buy And Sell Stock With Cooldown",
+    "links-href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/I7j0F7AHpb8"
+  },
+  {
+    "links": "Coin Change II",
+    "links-href": "https://leetcode.com/problems/coin-change-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Mjy4hd2xgrs"
+  },
+  {
+    "links": "Target Sum",
+    "links-href": "https://leetcode.com/problems/target-sum/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/g0npyaQtAQM"
+  },
+  {
+    "links": "Interleaving String",
+    "links-href": "https://leetcode.com/problems/interleaving-string/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/3Rw3p9LrgvE"
+  },
+  {
+    "links": "Longest Increasing Path In a Matrix",
+    "links-href": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/wCc_nd-GiEc"
+  },
+  {
+    "links": "Distinct Subsequences",
+    "links-href": "https://leetcode.com/problems/distinct-subsequences/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/-RDzMJ33nx8"
+  },
+  {
+    "links": "Edit Distance",
+    "links-href": "https://leetcode.com/problems/edit-distance/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/XYi2-LPrwm4"
+  },
+  {
+    "links": "Burst Balloons",
+    "links-href": "https://leetcode.com/problems/burst-balloons/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/VFskby7lUbw"
+  },
+  {
+    "links": "Regular Expression Matching",
+    "links-href": "https://leetcode.com/problems/regular-expression-matching/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/HAA8mgxlov8"
+  },
+  {
+    "links": "Maximum Subarray",
+    "links-href": "https://leetcode.com/problems/maximum-subarray/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/5WZl3MMT0Eg"
+  },
+  {
+    "links": "Jump Game",
+    "links-href": "https://leetcode.com/problems/jump-game/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/Yan0cv2cLy8"
+  },
+  {
+    "links": "Jump Game II",
+    "links-href": "https://leetcode.com/problems/jump-game-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/dJ7sWiOoK7g"
+  },
+  {
+    "links": "Gas Station",
+    "links-href": "https://leetcode.com/problems/gas-station/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/lJwbPZGo05A"
+  },
+  {
+    "links": "Hand of Straights",
+    "links-href": "https://leetcode.com/problems/hand-of-straights/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/amnrMCVd2YI"
+  },
+  {
+    "links": "Merge Triplets to Form Target Triplet",
+    "links-href": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/kShkQLQZ9K4"
+  },
+  {
+    "links": "Partition Labels",
+    "links-href": "https://leetcode.com/problems/partition-labels/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/B7m8UmZE-vw"
+  },
+  {
+    "links": "Valid Parenthesis String",
+    "links-href": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/QhPdNS143Qg"
+  },
+  {
+    "links": "Insert Interval",
+    "links-href": "https://leetcode.com/problems/insert-interval/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/A8NUOmlwOlM"
+  },
+  {
+    "links": "Merge Intervals",
+    "links-href": "https://leetcode.com/problems/merge-intervals/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/44H3cEC2fFM"
+  },
+  {
+    "links": "Non Overlapping Intervals",
+    "links-href": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/nONCGxWoUfM"
+  },
+  {
+    "links": "Meeting Rooms",
+    "links-href": "https://leetcode.com/problems/meeting-rooms/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/PaJxqZVPhbg"
+  },
+  {
+    "links": "Meeting Rooms II",
+    "links-href": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/FdzJmTCVyJU"
+  },
+  {
+    "links": "Minimum Interval to Include Each Query",
+    "links-href": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+    "difficulty": "Hard",
+    "video": "https://youtu.be/5hQ5WWW5awQ"
+  },
+  {
+    "links": "Rotate Image",
+    "links-href": "https://leetcode.com/problems/rotate-image/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/fMSJSS7eO1w"
+  },
+  {
+    "links": "Spiral Matrix",
+    "links-href": "https://leetcode.com/problems/spiral-matrix/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/BJnMZNwUk1M"
+  },
+  {
+    "links": "Set Matrix Zeroes",
+    "links-href": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/T41rL0L3Pnw"
+  },
+  {
+    "links": "Happy Number",
+    "links-href": "https://leetcode.com/problems/happy-number/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/ljz85bxOYJ0"
+  },
+  {
+    "links": "Plus One",
+    "links-href": "https://leetcode.com/problems/plus-one/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/jIaA8boiG1s"
+  },
+  {
+    "links": "Pow(x, n)",
+    "links-href": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/g9YQyYi4IQQ"
+  },
+  {
+    "links": "Multiply Strings",
+    "links-href": "https://leetcode.com/problems/multiply-strings/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/1vZswirL8Y8"
+  },
+  {
+    "links": "Detect Squares",
+    "links-href": "https://leetcode.com/problems/detect-squares/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/bahebearrDc"
+  },
+  {
+    "links": "Single Number",
+    "links-href": "https://leetcode.com/problems/single-number/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/qMPX1AOa83k"
+  },
+  {
+    "links": "Number of 1 Bits",
+    "links-href": "https://leetcode.com/problems/number-of-1-bits/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/5Km3utixwZs"
+  },
+  {
+    "links": "Counting Bits",
+    "links-href": "https://leetcode.com/problems/counting-bits/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/RyBM56RIWrM"
+  },
+  {
+    "links": "Reverse Bits",
+    "links-href": "https://leetcode.com/problems/reverse-bits/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/UcoN6UjAI64"
+  },
+  {
+    "links": "Missing Number",
+    "links-href": "https://leetcode.com/problems/missing-number/",
+    "difficulty": "Easy",
+    "video": "https://youtu.be/WnPLSRLSANE"
+  },
+  {
+    "links": "Sum of Two Integers",
+    "links-href": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/gVUrDV4tZfY"
+  },
+  {
+    "links": "Reverse Integer",
+    "links-href": "https://leetcode.com/problems/reverse-integer/",
+    "difficulty": "Medium",
+    "video": "https://youtu.be/HAgLH58IgJQ"
+  }  
+]
