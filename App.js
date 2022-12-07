@@ -22,19 +22,13 @@ const MyTheme = {
 export default function App() {
   return (
     <NavigationContainer theme={MyTheme}>
-    <Stack.Navigator initialRouteName='Home'>
-      <Stack.Screen name="Home" component={WelcomeScreen} />
-      <Stack.Screen name="Blind75" component={Blind75} />
-      <Stack.Screen name="Top150" component={Top150} />
-      <Stack.Screen name="All305" component={All305} />      
-    </Stack.Navigator>
-  </NavigationContainer>
-
-   
-    // <SafeAreaView >
-     
-      //  <Blind75/> 
-    // </SafeAreaView >
+      <Stack.Navigator initialRouteName='Home'>
+        <Stack.Screen name="Home" component={WelcomeScreen} />
+        <Stack.Screen name="Blind75" component={Blind75} />
+        <Stack.Screen name="Top150" component={Top150} />
+        <Stack.Screen name="All305" component={All305} />      
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 

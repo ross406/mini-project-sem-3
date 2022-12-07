@@ -18,27 +18,18 @@ export default function All305() {
       {
         data.map((value,index) => (
           <DataTable.Row key={"key"+index}>
-            {/* <DataTable.Cell style={{flex: 1}}>{index + 1}</DataTable.Cell> */}
             <DataTable.Cell style={{flex: 3}}>
                 <Text style={styles.questionText} onPress={() => Linking.openURL(value['links-href'])}>{index+1 + ". "+value.links}</Text></DataTable.Cell>
             <DataTable.Cell>{value.difficulty}</DataTable.Cell>
             <DataTable.Cell> 
             <TouchableOpacity style={styles.blind75Button} onPress={() => Linking.openURL(value.video)}>
-
             <Text style={styles.text}>Video</Text>
             </TouchableOpacity>
-              {/* <Button style={styles.button}
-              color="#000000" 
-                title="Video"
-                onPress={() => Linking.openURL(value.video)}
-              /> */}
         </DataTable.Cell>
           </DataTable.Row>
         ))
       }
-      
       </ScrollView>
-      
     </DataTable>
     </SafeAreaView >
   );
@@ -60,9 +51,7 @@ const styles = StyleSheet.create({
     backgroundColor:"#fc5c65",
     alignItems:"center",
     borderRadius:40,
-    
     padding:5
-    // position:"absolute"
   },
   tableHeader: {
     backgroundColor: '#fc5c65',
