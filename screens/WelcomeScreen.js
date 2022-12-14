@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Image, ImageBackground, StyleSheet, View } from 'react-native';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 import { Text } from 'react-native-paper';
+import { AuthContext } from '../context/AuthContext';
 
 function WelcomeScreen({navigation }) {
+    const {logout, setIsLoading} = useContext(AuthContext);
     return (
         <ImageBackground style={styles.background} source={require("../assets/showcase.jpg")}>
                
@@ -11,9 +13,16 @@ function WelcomeScreen({navigation }) {
                     <Image style={styles.logo} source={require('../assets/logo.png')} />
                     <Text style={styles.logoText}>Code Practice</Text>
                 </View>
-                <TouchableOpacity onPress={() => navigation.navigate('Blind75')}  style={styles.blind75Button}><Text  style={styles.text}>Blind 75</Text></TouchableOpacity >
-                <TouchableOpacity onPress={() => navigation.navigate('Top150')} style={styles.top150Button}><Text  style={styles.text}>Top 150</Text></TouchableOpacity>
-                <TouchableOpacity onPress={() => navigation.navigate('All305')} style={styles.all305Button}><Text  style={styles.text}>All 305</Text></TouchableOpacity>
+                <TouchableOpacity onPress={() => {
+                    // setIsLoading(true)
+                    navigation.navigate('Blind75')}}  style={styles.blind75Button}><Text  style={styles.text}>Blind 75</Text></TouchableOpacity >
+                <TouchableOpacity onPress={() => {
+                    // setIsLoading(true)
+                    navigation.navigate('Top150')}} style={styles.top150Button}><Text  style={styles.text}>Top 150</Text></TouchableOpacity>
+                <TouchableOpacity onPress={() => {
+                    // setIsLoading(true)
+                    navigation.navigate('All305')}} style={styles.all305Button}><Text  style={styles.text}>All 305</Text></TouchableOpacity>
+                <TouchableOpacity onPress={() => logout()} style={styles.all305Button}><Text  style={styles.text}>Logout</Text></TouchableOpacity>
                 
             </ImageBackground>
     );
@@ -68,7 +77,7 @@ const styles = StyleSheet.create({
     logo:{
         width:100,
         height:100,
-       
+        transform: [{rotate: '-15deg'}],
         backgroundColor:"#111",
         borderRadius:100,
         paddingTop:20

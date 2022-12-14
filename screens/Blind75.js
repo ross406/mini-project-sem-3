@@ -3,8 +3,15 @@ import { Linking, StyleSheet, Text, SafeAreaView,ScrollView } from 'react-native
 import data from '../data/blind75.json';
 import { Button, DataTable } from 'react-native-paper';
 import { TouchableOpacity } from 'react-native-gesture-handler';
+import { useContext, useEffect } from 'react';
+import { AuthContext } from '../context/AuthContext';
 
 export default function Blind75() {
+  const {logout, setIsLoading} = useContext(AuthContext);
+  useEffect(() => {
+    setIsLoading(false)
+  }, [])
+  
   return (
     <SafeAreaView >      
       <DataTable style={styles.container}>
