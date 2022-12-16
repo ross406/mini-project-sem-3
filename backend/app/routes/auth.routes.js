@@ -20,4 +20,9 @@ module.exports = function(app) {
   );
 
   app.post("/api/auth/signin", controller.signin);
+
+  app.post("/api/blind75", controller.saveBlind75);
+  app.post("/api/top150", controller.saveTop150);
+  app.post("/api/all305", controller.saveAll305);
+  app.post("/api/getData", controller.getData);
 };

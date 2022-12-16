@@ -6,12 +6,16 @@ const User = mongoose.model(
     username: String,
     email: String,
     password: String,
+    blind75: { type: [Number] },
+    top150: { type: [Number] },
+    all305: { type: [Number] },
     roles: [
       {
         type: mongoose.Schema.Types.ObjectId,
         ref: "Role"
       }
-    ]
+    ],
+    
   })
 );
 

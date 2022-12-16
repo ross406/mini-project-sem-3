@@ -107,3 +107,134 @@ exports.signin = (req, res) => {
       });
     });
 };
+
+exports.saveBlind75 = (req, res) => {
+  User.findOne({
+    email: req.body.email
+  })
+    // .populate("roles", "-__v")
+    .exec((err, user) => {
+      if (err) {
+        res.status(500).send({ message: err });
+        return;
+      }
+
+      if (!user) {
+        return res.status(404).send({ message: "User Not found." });
+      }
+
+      user.blind75 = req.body.blind75;
+
+      user.save().then(
+        user => {
+          res.status(200).send({
+            id: user._id,
+            username: user.username,
+            email: user.email,
+            blind75: user.blind75,
+            top150: user.top150,
+            all305: user.all305,
+          });
+        }
+      )
+     
+     
+    });
+};
+
+exports.saveTop150 = (req, res) => {
+  User.findOne({
+    email: req.body.email
+  })
+    // .populate("roles", "-__v")
+    .exec((err, user) => {
+      if (err) {
+        res.status(500).send({ message: err });
+        return;
+      }
+
+      if (!user) {
+        return res.status(404).send({ message: "User Not found." });
+      }
+
+      user.top150 = req.body.top150;
+
+      user.save().then(
+        user => {
+          res.status(200).send({
+            id: user._id,
+            username: user.username,
+            email: user.email,
+            blind75: user.blind75,
+            top150: user.top150,
+            all305: user.all305,
+          });
+        }
+      )
+     
+     
+    });
+};
+
+exports.saveAll305 = (req, res) => {
+  User.findOne({
+    email: req.body.email
+  })
+    // .populate("roles", "-__v")
+    .exec((err, user) => {
+      if (err) {
+        res.status(500).send({ message: err });
+        return;
+      }
+
+      if (!user) {
+        return res.status(404).send({ message: "User Not found." });
+      }
+
+      user.all305 = req.body.all305;
+
+      user.save().then(
+        user => {
+          res.status(200).send({
+            id: user._id,
+            username: user.username,
+            email: user.email,
+            blind75: user.blind75,
+            top150: user.top150,
+            all305: user.all305,
+          });
+        }
+      )
+     
+     
+    });
+};
+
+
+exports.getData = (req, res) => {
+  User.findOne({
+    email: req.body.email
+  })
+    // .populate("roles", "-__v")
+    .exec((err, user) => {
+      if (err) {
+        res.status(500).send({ message: err });
+        return;
+      }
+
+      if (!user) {
+        return res.status(404).send({ message: "User Not found." });
+      }
+
+      res.status(200).send({
+        id: user._id,
+        username: user.username,
+        email: user.email,
+        blind75: user.blind75,
+        top150: user.top150,
+        all305: user.all305,
+      });
+     
+     
+    });
+};
